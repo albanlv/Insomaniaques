@@ -7,7 +7,7 @@ I started it alone and I feel that there are a lot of imperfections. The beginni
 
 As I don't think I am a good writer, I decided to submit it to the public. 
 
-You can read the whole story ![there](http://insomaniaques.tumblr.com).
+You can read the whole story [there](http://insomaniaques.tumblr.com).
 
 If you can spot missing points, bad formuIas, areas of improvement, or feel inspired to write a new chapter, submit a pull request.
 
